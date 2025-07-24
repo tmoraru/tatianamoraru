@@ -5,4 +5,9 @@
 
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/tatiana-moraru/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tatianamoraru.tech) 
+
+
+
+
 
